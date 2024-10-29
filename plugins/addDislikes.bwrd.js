@@ -6,7 +6,7 @@
     @source https://raw.githubusercontent.com/davve77/BetterWRD-Plugins/main/plugins/addDislikes.bwrd.js
 */
 
-//i dedicate this plugin to evosploit and ishanjit
+//i dedicate this plugin to evosploit and ishanjit wtf
 //backend is terrible lol
 window.addEventListener('load', async() => {
     if(window.location.pathname.match(/forum\/t\/\d+/) && !window.location.pathname.includes('newreply')) {
